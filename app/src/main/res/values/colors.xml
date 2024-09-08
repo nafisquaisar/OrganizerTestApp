@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#E2E2E2</color>
+    <color name="pink">#E32452</color>
+    <color name="lightred">#F2AEAE</color>
+    <color name="seclightgreen.">#3AA76D</color>
+    <color name="secbluegreen">#006666</color>
+    <color name="holo_red_dark">#E32452</color>
+    <color name="Primgreen.">#50C878</color>
+    <color name="primdarkbluegreen">#008080</color>
+
+    <color name="Excellent">#008476</color>
+    <color name="Outstanding">#2F9287</color>
+    <color name="VeryGood">#579C95</color>
+    <color name="Good">#E65100</color>
+    <color name="Bad">#E53935</color>
+
+
+
+<!--    Start Color: #0072FF (a vibrant blue)-->
+<!--    End Color: #00C6FF (a bright teal)-->
+
+<!--    Start Color: #9D50BB (a deep purple)-->
+<!--    End Color: #6E48AA (a soft lavender)-->
+
+<!--    Start Color: #FFB75E (a warm orange)-->
+<!--    End Color: #ED8F03 (a rich yellow)-->
+
+<!--    Start Color: #11998E (a cool green)-->
+<!--    End Color: #38EF7D (a bright green)-->
+
+<!--    Start Color: #FF416C (a vibrant red)-->
+<!--    End Color: #FF4B2B (a softer pink)-->
+
+</resources>

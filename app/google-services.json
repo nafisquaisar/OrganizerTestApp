@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805359150416",
+    "project_id": "organize-test-center",
+    "storage_bucket": "organize-test-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805359150416:android:1ccdf7c1c4191b8a6c3855",
+        "android_client_info": {
+          "package_name": "com.example.nafis.nf.organizetestcenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrq0vtTTS_cXB92ED0qHAtR3RdrJkiiCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

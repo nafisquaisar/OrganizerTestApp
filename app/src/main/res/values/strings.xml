@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Organize Test Center</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="animation_title_desc">animation_title_desc</string>
+    <string name="animation_view_desc">animation_view_desc</string>
+    <string name="todo">TODO</string>
+</resources>
